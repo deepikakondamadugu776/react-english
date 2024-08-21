@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../Videos/fun.jip"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "React"
+  }
+}
